@@ -1,5 +1,3 @@
 
 
-default:
-  data:
-    value: "hello"
+default.data.value="hello"
